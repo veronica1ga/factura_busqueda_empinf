@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-nov-2018, 11:42:53
+    Author     : Verónica González  
+*/
+h1{
+    color:blue;
+}
+
+
+fieldset{
+    color:blue;
+}
+
+
+table td{
+    border: solid black;
+    margin:2px;
+}
+
+table{
+	background-color:black;
+}
+
+
+table tr{
+    border: solid black;
+    background-color: khaki;
+   
+}
+
+table tr:nth-child(1){
+   background-color: yellowgreen;
+   color: white;
+   font-weight: bold;
+  
+}
